@@ -1,1 +1,1 @@
-A Python program that creates a digital greeting card applying HTML / SVG and randomized algorithms. To create the card, run the a43.py file in the a43 folder. It will generate an HTML file in the a43 folder, which can be opened with Google Chrome.
+A Python program creating a digital greeting card applying HTML / SVG and randomized algorithms. To create the card, run the a43.py file in the a43 folder. It will generate an HTML file in the a43 folder, which can be opened with Google Chrome.
